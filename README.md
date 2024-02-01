@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kazem</h1>
 <h3 align="center">A Back end developer</h3>
 
-- 🌱 I’m currently learning **Software Designer Mindset, System Design <a href="https://github.com/karanpratapsingh/system-design" target="_blank" rel="noreferrer">, Fastapi and Pygame**
+- 🌱 I’m currently learning **Software Designer Mindset, <a href="https://github.com/karanpratapsingh/system-design" target="_blank" rel="noreferrer">System Design</a>, Fastapi and Pygame**
 
 - 👯 I’m looking to collaborate on **python projects**
 
