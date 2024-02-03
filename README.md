@@ -2,7 +2,19 @@
 <h3 align="center">A Back end developer</h3>
 
 - 🌱 I’m currently learning **Software Designer Mindset, <a href="https://github.com/karanpratapsingh/system-design" target="_blank" rel="noreferrer">System Design</a>, Fastapi and Pygame**
-- <ul><li><input type="checkbox" id="scales" name="scales" checked /></li></ul>
+<fieldset>
+  <legend>Choose your monster's features:</legend>
+
+  <div>
+    <input type="checkbox" id="scales" name="scales" checked />
+    <label for="scales">Scales</label>
+  </div>
+
+  <div>
+    <input type="checkbox" id="horns" name="horns" />
+    <label for="horns">Horns</label>
+  </div>
+</fieldset>
 
 - 👯 I’m looking to collaborate on **python projects**
 
