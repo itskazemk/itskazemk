@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kazem</h1>
 <h3 align="center">A Back end developer</h3>
 
-- 🌱 I’m currently working with asp.net, python,  js and its libraries (React and Svelte)
+- 🌱 I’m currently working with asp.net, python, js and its libraries (React and Svelte)
 
 - 👯 I’m looking to collaborate on **.net, python and Js projects**
 
